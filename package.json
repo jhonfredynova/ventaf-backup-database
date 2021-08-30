@@ -2,7 +2,7 @@
   "name": "cyt-job-backup-database",
   "description": "Firebase job to backup database data run every day",
   "scripts": {
-    "lint": "eslint ./src",
+    "lint": "eslint ./",
     "serve": "firebase emulators:start --inspect-functions --only functions",
     "shell": "firebase functions:shell",
     "start": "npm run shell",
