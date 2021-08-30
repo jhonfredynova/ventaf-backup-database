@@ -23,7 +23,3 @@ Runs the app in production mode.
 ### `npm run serve`
 
 Runs the app in development mode. Open [http://localhost:3000](http://localhost:3000)
-
-### `npm run deploy`
-
-Deploy your firebase job to production.
